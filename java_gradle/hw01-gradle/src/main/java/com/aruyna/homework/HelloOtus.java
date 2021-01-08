@@ -1,4 +1,4 @@
-package ru.otus;
+package com.aruyna.homework;
 
 import com.google.common.base.Splitter;
 

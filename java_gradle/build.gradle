@@ -17,7 +17,7 @@ idea {
 }
 
 allprojects {
-    group "ru.otus"
+    group "com.aruyna.homework"
 
     repositories {
         mavenCentral()
